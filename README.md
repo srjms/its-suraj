@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Suraj. A Software Engineer. I like building deep learning models and reading ML research papers.
 
 <!--
 **its-suraj/its-suraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
