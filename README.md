@@ -1,17 +1,11 @@
 ### Hi there 👋
-I'm Suraj. A Software Engineer. I like building deep learning models and reading ML research papers.
+I'm Suraj. 
 
-<!--
-**its-suraj/its-suraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Implementing ML Papers to Code
+- 🌱 I’m currently learning Pytorch, Advanced Python
+- 👯 I’m looking to collaborate on Machine Learning Projects
+<!--- 🤔 I’m looking for help with -->
+- 💬 Ask me about ML Algorithms
+- 📫 How to reach me: ms.suraj7@gmail.com
+- 😄 Pronouns: Achu
+<!--- ⚡ Fun fact: -->
