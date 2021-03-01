@@ -6,5 +6,4 @@ I'm Suraj.
 - 👯 I’m looking to collaborate on Machine Learning Projects<!--- 🤔 I’m looking for help with -->
 - 💬 Ask me about ML Algorithms
 - 📫 How to reach me: ms.suraj7@gmail.com
-- 😄 Pronouns: Achu
 <!--- ⚡ Fun fact: -->
