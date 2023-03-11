@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Suraj. ML Engineer. Codes mostly in python.
+I'm Suraj. ML Engineer. Codes mostly in python
 
 <!---- 🔭 I’m currently working on Implementing ML Papers to Code
 - 🌱 I’m currently learning ML, NLP, Pytorch, Advanced Python and Rust
